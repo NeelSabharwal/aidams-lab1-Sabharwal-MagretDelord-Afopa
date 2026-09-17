@@ -1,19 +1,26 @@
 # AIDAMS Lab 1
 
-This project analyzes global steel plant data and combines it with LitPop exposure data for China, India, and Japan.
+This repository contains our work for AIDAMS Lab 1, including the completed notebook and the Streamlit dashboard.
 
-## Contents
+## Running the Dashboard
 
-- `lab_1.ipynb` - Data cleaning, spatial matching, visualization, and company-level analysis
-- `app.py` - Streamlit dashboard
-- `dashboard_data/` - Processed datasets used by the dashboard
+First, install the required packages:
 
-## Run the Dashboard
+```bash
+pip install -r requirements.txt
+```
 
-Install the required packages:
+Then run the Streamlit dashboard:
 
-pip install streamlit pandas plotly
-
-Then run:
-
+```bash
 streamlit run app.py
+```
+
+The dashboard should open automatically in your browser. If it does not, open the local URL shown in the terminal.
+
+## Files
+
+- `lab_1.ipynb` - completed lab notebook
+- `app.py` - Streamlit dashboard
+- `dashboard_data/` - processed data used by the dashboard
+- `requirements.txt` - packages required to run the dashboard
