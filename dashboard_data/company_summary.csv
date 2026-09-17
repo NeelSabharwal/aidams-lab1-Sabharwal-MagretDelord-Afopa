@@ -1,0 +1,536 @@
+Owner,total_capacity,number_of_plants,average_litpop,number_of_countries,number_of_regions
+JSW Steel Ltd,50935.0,5,390503654.86848414,1,1
+Steel Authority of India Ltd,43591.0,8,3249196970.62921,1,1
+Jindal Steel Odisha Ltd,42670.0,1,322827125.6345241,1,1
+Jindal Steel Limited Ltd,39710.0,5,374314226.8259558,1,1
+Rungta Mines Ltd,34955.0,5,307628533.1210734,1,1
+Tata Steel Ltd,33787.0,5,1952889413.1808407,1,1
+JSW Jharkhand Steel Ltd,29600.0,1,22085261.29316944,1,1
+Maanshan Iron & Steel Co Ltd,25540.0,1,14161932205.740225,1,1
+JSW Utkal Steel Ltd,24775.0,1,105160684.6244372,1,1
+Nippon Steel Corp,24078.0,10,13660373521.624287,1,1
+Qian'an City Jiujiang Wire Co Ltd,20800.0,1,1205952791.2560177,1,1
+Baosteel Zhanjiang Iron & Steel Co Ltd,18506.0,1,1178377706.3453572,1,1
+Hebei Jinxi Iron & Steel Group Co Ltd,16840.0,1,251849587.08247745,1,1
+Panzhihua Steel Group Panzhihua Steel Vanadium Co Ltd,16450.0,1,9319315191.657978,1,1
+Orissa Metaliks Pvt Ltd,15900.0,3,2205613025.7592883,1,1
+Uttam Galva Ferous Ltd,15272.0,1,354990517.4078579,1,1
+Rashtriya Ispat Nigam Ltd,14301.0,1,4255549611.1018696,1,1
+Guangxi Iron and Steel Group Co Ltd,14230.0,1,226557645.65927386,1,1
+Hunan Valin Lianyuan Iron and Steel Co Ltd,14000.0,2,4608518568.66061,1,1
+Sansteel Minguang Co Ltd Fujian,13833.0,1,3154692864.404899,1,1
+Zenith Steel Group Co Ltd,12800.0,1,18149919723.49238,1,1
+Kobe Steel Ltd,12647.0,2,34081805321.518963,1,1
+Lianfeng Steel (Zhangjiagang) Co Ltd,12000.0,1,3289812339.6058364,1,1
+Tonghua Iron & Steel Co Ltd,11427.0,1,601217158.3271072,1,1
+Hebei Puyang Iron and Steel Co Ltd,10416.0,1,313791587.31473416,1,1
+Tianjin Iron PLANT Co Ltd,10110.0,1,1279452525.6709294,1,1
+Chengde Zhaofeng Steel Group Co Ltd,10000.0,1,25938154.368309747,1,1
+Qinhuangdao Hongxing Iron & Steel Co Ltd,9850.0,1,853581286.6142415,1,1
+Gansu Jiu Steel Group Hongxing Iron and Steel Co Ltd,9500.0,1,7871975322.062651,1,1
+Tangshan RUIFENG Steel and Iron (GROUP) Co Ltd,9300.0,1,438464931.03294915,1,1
+Tianjin Iron and Steel Group Co Ltd,8860.0,1,7120436820.791538,1,1
+HBIS Laoting Steel Co Ltd,8803.0,1,658638310.9064554,1,1
+NMDC Steel Ltd,8426.0,2,166213907.73032075,1,1
+Tangshan Fengnan District Jing'an Iron and Steel Co Ltd,8300.0,1,1597397963.2435653,1,1
+Lloyds Metals and Energy Ltd,8000.0,2,124927907.9499686,1,1
+Tangshan Guotang Steel Co Ltd,7710.0,1,658638310.9064554,1,1
+Wuhu Xinxing Ductile Iron Pipes Co Ltd,7480.0,1,1042494789.8844099,1,1
+Ningxia Jianlong Special Steel Co Ltd,7300.0,1,698923464.9402945,1,1
+Shyam Metalics and Energy Ltd,7110.0,2,508460503.06881213,1,1
+Godawari Power and Ispat Ltd,7100.0,2,919900210.3246052,1,1
+Jayaswal Neco Industries Ltd,6900.0,1,1676028759.8407507,1,1
+ArcelorMittal Nippon Steel India Ltd,6830.0,5,1028284804.7500484,1,1
+Cangzhou China Railway Equipment Manufacturing Materials Co Ltd,6763.0,1,477468708.0493724,1,1
+Welspun Corp Ltd,6650.0,1,786684238.6823866,1,1
+Hebei Tangyin IRON&STEEL Co Ltd,6500.0,2,6582094224.79956,1,1
+Tangshan Ganglu Iron & Steel Co Ltd,6451.0,1,392661136.5966965,1,1
+Orissa Steel & Power Pvt Ltd,6400.0,1,47335285.52206003,1,1
+Sichuan Dazhou Iron & Steel Group Co Ltd,6400.0,1,10197981456.470524,1,1
+Rashmi Green Hydrogen Steel Pvt Ltd,6200.0,1,1986124537.7752411,1,1
+Jinding Heavy Industries Co Ltd,6000.0,1,2791499561.2492723,1,1
+Hebei Anfeng Iron & Steel Co Ltd,5900.0,1,301142693.52749974,1,1
+Inner Mongolia BaoTou Steel Union Co Ltd,5810.0,1,563557793.4713724,1,1
+Tianjin Tiangang UNITED SPECIAL Steel Co Ltd,5796.0,1,10311114379.091043,1,1
+JSW Vijayanagar Metallics Ltd,5750.0,1,334841572.46645224,1,1
+BMM Ispat Ltd,5700.0,1,326466748.184155,1,1
+Heilongjiang Jianlong Iron and Steel Co Ltd,5440.0,1,125175844.19061546,1,1
+Jiangsu Shente Steel Corp,5400.0,1,5294448729.56292,1,1
+Xindia Steels Ltd,5200.0,1,185356174.34875867,1,1
+Ningbo Iron & Steel Co Ltd,5158.0,1,7787131930.195617,1,1
+Hubei Jinshenglan Metallurgical Technology Co Ltd,4800.0,1,96700424.06712171,1,1
+Qinhuangdao Baigong Steel Co Ltd,4200.0,1,1644959560.7920702,1,1
+Jiangsu Shagang Group Huaigang SPECIAL Steel Co Ltd,4166.0,1,4165354036.0691886,1,1
+Hebei New Wuan Steel Group Wenan IRON&STEEL Co Ltd,4000.0,2,3553105312.443734,1,1
+Fangda Special Steel Technology Co Ltd,3843.0,1,30850521591.191532,1,1
+Linyi Iron and Steel Investment Group Co Ltd,3840.0,1,212520272.51501238,1,1
+Shanxi Liheng Iron and Steel Co Ltd,3700.0,1,747390169.8949468,1,1
+Guangxi BG New Materials Co Ltd,3400.0,1,490660026.3866026,1,1
+JSW Ispat Special Products Ltd,3380.0,1,213067224.22470316,1,1
+ESL Steel Ltd,3244.0,1,1365011682.389793,1,1
+Honghe Iron and Steel Co Ltd,3200.0,1,1145833787.5269697,1,1
+Kalyani Steels Ltd,3180.0,1,319583186.94651854,1,1
+Qinglong Manzhu Autonomous County Delong Casting Industry Development Co Ltd,3050.0,1,14286152.175898882,1,1
+Baosteel Desheng Stainless Steel Co Ltd,2960.0,1,53661889.35483706,1,1
+Shri Bajrang Power and Ispat Ltd,2900.0,1,450845929.98527956,1,1
+"Sichuan De Sheng Group, Vanadium and Titanium Co Ltd",2800.0,1,181895609.9521647,1,1
+Shyam Steel Industries Ltd,2792.0,1,363171012.67553264,1,1
+Rashmi Metaliks Ltd,2700.0,2,2729308041.8371925,1,1
+Jiugang Group Yuzhong Iron & Steel Co Ltd,2628.0,1,167993672.70306432,1,1
+Zhongpu (Handan) Iron and Steel Co Ltd,2623.0,1,296202759.7826058,1,1
+Neelachal Ispat Nigam Ltd,2590.0,1,864289310.3874147,1,1
+MSP Steel & Power Ltd,2450.0,1,122199505.11316605,1,1
+Anshan Baode Iron & Steel Co Ltd,2395.0,1,4381066890.384275,1,1
+Daye Huaxin Industrial Co Ltd,2320.0,1,1002488417.5250294,1,1
+Danyang Longjiang Steel Co Ltd,2300.0,1,5805245295.940704,1,1
+Fujian Luoyuan Minguang Iron & Steel Co Ltd,2230.0,1,53661889.35483706,1,1
+DELONG Steel Ltd,2216.0,1,676290293.567939,1,1
+Xinjiang Kunyu Lron & Steel Co Ltd,2100.0,1,499486217.0650745,1,1
+Xinxing Ductile Iron Pipes Xinjiang Co Ltd,2074.0,1,31013010.919899933,1,1
+Kapila Metals Pvt Ltd,2000.0,1,100155279.26306468,1,1
+Hebei Baoxin Iron and Steel Group Co Ltd,2000.0,1,1340340843.3454995,1,1
+Shandong Guangfu Group Co Ltd,1900.0,1,833477595.0387985,1,1
+Jai Balaji Industries Ltd,1858.0,2,675745315.8269312,1,1
+Jiangyin Huaxi Steel Co Ltd,1850.0,1,10086515908.61508,1,1
+Chengde Jianlong SPECIAL Steel Co Ltd,1805.0,1,277866579.7444777,1,1
+Tongling City Xuanli Special Steel Co Ltd,1757.0,1,322755495.5135918,1,1
+Prakash Industries Ltd,1650.0,1,465552274.1725282,1,1
+Jai Balaji Jyoti Steels Ltd,1600.0,1,94945328.67570616,1,1
+Evonith Metallics Ltd,1500.0,2,428413959.05805874,1,1
+Crest Steel and Power Pvt Ltd,1400.0,1,1306781871.7744355,1,1
+Jianlong Xilin Iron and Steel Co Ltd,1400.0,1,10642384.938641924,1,1
+Anhui Changjiang Steel Co Ltd,1375.0,1,2369022303.7466125,1,1
+Vedanta Iron and Steel Ltd,1322.0,1,607137556.302787,1,1
+Shanxi HONGDA Iron and Steel Group Co Ltd,1300.0,1,250634379.58227268,1,1
+Atibir Industries Co Ltd,1280.0,1,510655890.86209947,1,1
+Anhui Shoukuang Dachang Metal Material Co Ltd,1200.0,1,26192474.427464876,1,1
+Guangxi Liugang Zhongjin Stainless Steel Co Ltd,1200.0,1,221366537.43015066,1,1
+Jiangsu Xusteel Group Co Ltd,1200.0,1,536146471.99254227,1,1
+Shanxi Meijin Iron and Steel Co Ltd,1200.0,2,2089291270.347642,1,1
+Surjagad Ispat Pvt Ltd,1200.0,1,1744300.2223284245,1,1
+Tangshan Donghai Iron and Steel Group Co Ltd,1200.0,1,770999040.1643324,1,1
+Fulun Iron & Steel Co Ltd,1100.0,1,792299266.5563575,1,1
+Chengyu Vanadium & Titanium Technology Co Ltd,1100.0,1,69319122.10205877,1,1
+Tianjin Pipe Corp,1032.0,1,7120436820.791538,1,1
+Jiangsu Delong Nickel Industry Co Ltd,1000.0,1,890142435.6329616,1,1
+Fujian Tsingtuo Nickel Industry Co Ltd,1000.0,1,11794218.386546498,1,1
+Shiheng SPECIAL Steel Group Co Ltd,1000.0,1,1341653440.6361408,1,1
+Shanxi Zhongyang Iron & Steel Co Ltd,1000.0,1,320338051.3482251,1,1
+Swadesh Metallics Pvt Ltd,1000.0,1,194558399.93739942,1,1
+Chongli Steel Manufacturing Co Ltd,800.0,1,475205331.7791578,1,1
+Xining Special Steel Co Ltd,800.0,1,3718700727.8378444,1,1
+Gallantt Ispat Ltd,792.0,1,881769082.2374166,1,1
+Electrosteel Castings Ltd,780.0,1,142335900.08133274,1,1
+Mesco Kalinga Steel Ltd,770.0,1,864289310.3874147,1,1
+JFE Steel Corp,720.0,5,78559959627.55774,1,1
+Hospet Steels Ltd,700.0,1,204245873.82605147,1,1
+Jindal Stainless Ltd,680.0,3,3568032814.4749894,1,1
+Arjas Steel Pvt Ltd,650.0,1,216622786.99645334,1,1
+"Xinyang Iron & Steel Co.,ltd of Angang Group",600.0,1,382250327.83036226,1,1
+Shaanxi Hanzhong Iron & Steel Group Co,600.0,1,554486726.9337088,1,1
+Hbzx HIGH Tech Co Ltd,584.0,1,11073664760.627905,1,1
+Shakambhari Ispat & Power Ltd,396.0,1,740366725.9212388,1,1
+Sunflag Iron and Steel Co Ltd,364.0,1,158719364.06818208,1,1
+KIC Metaliks Ltd,360.0,1,1554639245.0040002,1,1
+Guangdong Guangqing METAL Technology Co Ltd,300.0,1,546325381.749661,1,1
+Fujian Dingxin Industry Co Ltd,300.0,1,11794218.386546498,1,1
+Tata Metaliks Ltd,233.0,1,2985882028.961829,1,1
+Yun County Rongfeng Rolling Mill Factory,0.0,1,2868377109.874325,1,1
+Yingkou Iron & Steel Co Ltd,0.0,1,758099574.9849542,1,1
+Yazdani Steel and Power Ltd,0.0,1,864289310.3874147,1,1
+Guangdong Zhanhong Steel Plant,0.0,1,33770610.58382256,1,1
+Guangdong Yueshao Iron & Steel Co Ltd,0.0,1,2904267538.2436757,1,1
+Guangdong Yuehua Iron & Steel Group Co Ltd,0.0,1,386008960.44992363,1,1
+Guangdong Yuedong Steel Co Ltd,0.0,1,10381673523.067602,1,1
+Guangdong Yuebei United Steel Co Ltd,0.0,1,114780320.39245096,1,1
+Guangdong Taiye Hongda Steel Co Ltd,0.0,1,1746497357.0257854,1,1
+Guangdong Taidu Iron & Steel Co Ltd,0.0,1,1746497357.0257854,1,1
+Guangdong Shiji Qingshan Nickel Industry Co Ltd,0.0,1,546325381.749661,1,1
+Guangdong Shengye Steel Co Ltd,0.0,1,106278554.73135719,1,1
+Guangdong Nanfang Donghai Iron and Steel Co Ltd,0.0,1,194781090.93254027,1,1
+Guangdong Jinshenglan Metallurgical Technology Co Ltd,0.0,1,288572450.6037076,1,1
+Guangdong Jingye Iron and Steel Co Ltd,0.0,1,7797595936.055308,1,1
+Guangdong Hongde Steel Group Co Ltd,0.0,1,2371893017.6045723,1,1
+Guangdong Guoxin Industrial Co Ltd,0.0,1,4977101905.5661955,1,1
+Guangdong Guixin Steel Co Ltd,0.0,1,1383225148.037752,1,1
+Guangdong Guangqing Metal Technology Co Ltd,0.0,1,5052871258.0219145,1,1
+Fujian Yixin Steel & Iron Co Ltd,0.0,1,136966250.464103,1,1
+Guizhou Hexing Metal Products Co Ltd,0.0,1,30310794.301979743,1,1
+Guizhou Ganglian Industrial Group Co Ltd,0.0,1,3047624310.877063,1,1
+Guilin Pinggang Iron and Steel Co Ltd,0.0,1,33714093.6953855,1,1
+Guangxi Wuzhou Jinhai Stainless Steel Co Ltd,0.0,1,607979569.3111423,1,1
+Guangxi Shenglong Metallurgical Co Ltd,0.0,1,954514098.9683073,1,1
+Guangxi Longzhou Zhongheng Wanhua Industrial Co Ltd,0.0,2,14775761.727532735,1,1
+Guangxi Hezhou Kexinda Metal Products Co Ltd,0.0,1,90031801.82740928,1,1
+Guangxi Guixin Steel Group Co Ltd,0.0,1,90031801.82740928,1,1
+Guangxi Guigang Iron and Steel Group Guigang Guibao SPECIAL Steel Co Ltd,0.0,1,6503602261.824279,1,1
+Guangxi Guigang Iron and Steel Group Co Ltd,0.0,1,6503602261.824279,1,1
+Guangxi Deyuan Metallurgy Co Ltd,0.0,2,271821385.1967023,1,1
+Guangxi Chiji Iron and Steel Co Ltd,0.0,1,105313275.99139243,1,1
+Guangshui Huaxin Smelt Industry Co Ltd,0.0,1,39099648.249599755,1,1
+Hanshan Iron and Steel Co Ltd,0.0,1,296202759.7826058,1,1
+Handan Iron and Steel Group Co Ltd,0.0,1,34430628965.986046,1,1
+Haicheng Hengsheng Casting Co Ltd,0.0,1,722648668.565372,1,1
+Guizhou United Steel (Group) Co Ltd,0.0,1,288427354.33009654,1,1
+Guangdong Fogang Jincheng Metal Products Co Ltd,0.0,1,92889374.35438424,1,1
+Guangdong Daxing Iron & Steel Industrial Co Ltd,0.0,1,13690835436.783312,1,1
+"Guangde Xinyuanda Metal Products Co., Ltd. Co Ltd",0.0,1,60598213.36689451,1,1
+GuangDong Xinxing Ductile Iron Pipes Co Ltd,0.0,1,126961940.125218,1,1
+Godo Steel Ltd,0.0,3,176002564914.40576,1,1
+Gaolan County Lanxin Steel Co Ltd,0.0,1,4705947.349746395,1,1
+Fuzhou Wuhang Steel Products Co Ltd,0.0,1,6512786661.363352,1,1
+Fushun Special Steel Co Ltd,0.0,1,8540543698.927486,1,1
+Fushun New Steel Corp Ltd,0.0,1,8540543698.927486,1,1
+Fushun HANWANG Direct Reduced Iron Co Ltd,0.0,1,26636182.46122891,1,1
+Hebei Xinghua Iron and Steel Co Ltd,0.0,1,2791499561.2492723,1,1
+Hebei Xinda Iron and Steel Co Ltd,0.0,1,796505445.106471,1,1
+Hebei Wenfeng STEEL&IRON Co Ltd,0.0,1,1570133414.6514165,1,1
+Hebei Tianzhu Iron and Steel Group Special Steel Co Ltd,0.0,1,658638310.9064554,1,1
+Hebei Tianzhu IRON&STEEL (GROUP) Co Ltd,0.0,1,4568324809.945682,1,1
+Hebei Taihang Iron and Steel Group Co Ltd,0.0,1,383769388.9911753,1,1
+Hebei Rongxin Iron & Steel Co Ltd,0.0,1,796505445.106471,1,1
+Hebei PROVINCE Longfengshan Casting Industry Co Ltd,0.0,1,2791499561.2492723,1,1
+Hebei New Wuan Lron and Steel Group Hong Rong Lron and Steel Co Ltd,0.0,1,188809636.46592227,1,1
+Hebei New Wuan Iron and Steel Group Xin Hui Metallurgy Co Ltd,0.0,1,1570133414.6514165,1,1
+Hebei Jingdong Pipe Industry Co Ltd,0.0,1,177055102.2953652,1,1
+Hebei Huaxin Special Steel Co Ltd,0.0,1,1439683054.8066726,1,1
+Hebei Huaxi Special Steel Co Ltd,0.0,1,658638310.9064554,1,1
+Hebei Guanfeng Metallurgical Industry Co Ltd,0.0,1,2791499561.2492723,1,1
+Hebei Donghai SPECIAL Steel Group Co Ltd,0.0,1,1222250055.6719754,1,1
+Heyuan Derun Steel Co Ltd,0.0,2,5199836757.785021,1,1
+Heping Yueshen Steel Industrial Co Ltd,0.0,1,922848789.0805657,1,1
+Hengyang Valin Steel Tube Co Ltd,0.0,1,8841440925.872505,1,1
+Henan YAXIN Steel Industry Co Ltd,0.0,1,1630271672.3960836,1,1
+Henan Xinjinhui Stainless Steel Industry Co Ltd,0.0,1,797364861.8664675,1,1
+Henan Jiyuan Iron & Steel (Group) Co Ltd,0.0,1,3421395276.0751696,1,1
+Henan Fuhua Iron & Steel Group Co Ltd,0.0,1,3251997907.564753,1,1
+Henan Fengbao SPECIAL Steel Co Ltd,0.0,1,1250100343.4634068,1,1
+Henan Changtai Stainless Steel Plate Co Ltd,0.0,1,3849360572.403314,1,1
+Henan Angang Zhoukou Iron and Steel Co Ltd,0.0,1,1216482444.7504897,1,1
+Hejin Huaxinyuan Steel & Iron Co Ltd,0.0,1,1208145259.4777637,1,1
+Hebei Zongheng Group Fengnan Iron & Steel Co Ltd,0.0,1,452880777.8970651,1,1
+Hebei YongYang Special Steel Group Co Ltd,0.0,1,364664534.1041899,1,1
+Hebei Yanshan Iron and Steel Group Co Ltd,0.0,1,4245679723.9297485,1,1
+Hebei Xinxing Ductile Iron Pipes Co Ltd,0.0,1,1570133414.6514165,1,1
+Hebei Xinjin Iron and Steel Co Ltd,0.0,1,6917400988.421546,1,1
+Inner Mongolia (Naiman) Jingan Non-ferrous Metal Materials Co Ltd,0.0,1,755333747.2342982,1,1
+Huizhou Jushun Iron and Steel Plant,0.0,1,5079645602.338191,1,1
+Hubei Wucheng Iron and Steel Group Co Ltd,0.0,1,14250230836.869875,1,1
+Hubei Shunle Iron and Steel Co Ltd,0.0,1,96700424.06712171,1,1
+Hubei Lijin Steel Group Co Ltd,0.0,1,728653447.9992169,1,1
+Hubei Dazhan Steel & Iron Co Ltd,0.0,1,600972460.8080096,1,1
+Huarui (Handan) Casting & Pipe Co Ltd,0.0,1,1340340843.3454995,1,1
+Huangshi Xinxing Pipe Industry Co Ltd,0.0,1,4262753872.987659,1,1
+Huangshi Xingang Heavy Industry Technology Co Ltd,0.0,1,69794425.23817413,1,1
+Huainan Hongtai Steel Limited Liability Co,0.0,1,4888696838.2685,1,1
+Huahong Iron and Steel Products Co Ltd,0.0,1,468805622.32278705,1,1
+Houying Group Haicheng Iron and Steel Co Ltd,0.0,1,563518410.1278985,1,1
+Hezhou Zhaoxin Hardware Products Co Ltd,0.0,1,90031801.82740928,1,1
+Hezhou Xindu Sanyuan Casting Co Ltd,0.0,1,90031801.82740928,1,1
+Heyuan Huacheng Metal Products Co Ltd,0.0,1,661354659.4113086,1,1
+Fujian Dingsheng Steel Co Ltd,0.0,1,65973740.548705816,1,1
+"Fugang METAL Manufacturing Co.ltd.,jilinjigang Steel Group",0.0,1,218005645.09942687,1,1
+Fogang Dawei Special Steel Co Ltd,0.0,1,794462578.72561,1,1
+Fengshun Yongshun Continuous Casting Plant,0.0,1,453215982.2079722,1,1
+Fengshun County Hongbao Industrial Co Ltd,0.0,1,1404595.2279711333,1,1
+JSW Steel Ltd; POSCO Holdings Inc,0.0,1,165319279.8517694,1,1
+JSW Rayalaseema Steel Limited,0.0,1,45263087.15252942,1,1
+JSW Green Steel Ltd,0.0,1,5087801.004416001,1,1
+JSW Bengal Steel Ltd,0.0,1,178521520.3246137,1,1
+JFE Bars & Shapes Corp,0.0,3,10166868071.82332,1,1
+Inner Mongolia Yaxinlongshun Special Steel Co Ltd,0.0,1,2337622.9703656165,1,1
+Inner Mongolia Wanzhou Special Steel Co Ltd,0.0,1,13833901.491643237,1,1
+Inner Mongolia Mingtuo Ferrite New Material Co Ltd,0.0,1,563557793.4713724,1,1
+Inner Mongolia Desheng Metal Products Co Ltd,0.0,1,111523145.34028804,1,1
+Jiangsu HONGTAI Metals Ware Co Ltd,0.0,1,3200493895.461697,1,1
+Jiangsu Changqiang Iron & Steel Co Ltd,0.0,1,5149260849.902505,1,1
+Jianglong Acheng Iron & Steel Co Ltd,0.0,1,3851213851.5239058,1,1
+JiLin Province Xinda Steel Co Ltd,0.0,1,15053158.02973983,1,1
+Fujian Wuhang Stainless Steel Products Co Ltd,0.0,1,6512786661.363352,1,1
+Fujian Sanbao Steel Co Ltd,0.0,1,1437201755.3926136,1,1
+Fujian San'an Iron & Steel Co Ltd,0.0,1,1080493062.2097301,1,1
+Fujian Qingtuo New Material Co Ltd,0.0,1,11794218.386546498,1,1
+Fujian Longgang New Materials Co Ltd,0.0,1,81212030.76822813,1,1
+Fujian Hongfeng Industrial Group Co Ltd,0.0,1,29883675.310433295,1,1
+Fujian Great Dong Hai Industrial Group Co Ltd,0.0,1,548350467.9412751,1,1
+Fujian Fuxin Special Steel Co Ltd,0.0,1,17250077612.688942,1,1
+Jilin Jingang Lron and Steel Co Ltd,0.0,1,7056524178.650425,1,1
+Jilin Jianlong Steel Co Ltd,0.0,1,133726064.71790448,1,1
+Jianlong Beiman SPECIAL Steel Co Ltd,0.0,1,3437488269.916678,1,1
+Jiangyin Xingcheng SPECIAL Steel Works Co Ltd,0.0,1,4429745806.121701,1,1
+Jiangyin Xicheng Steel Co Ltd,0.0,1,8256028173.465794,1,1
+Jiangxi Yuanxing Iron and Steel Co Ltd,0.0,1,982532261.0660375,1,1
+Jiangxi Taixin Iron & Steel Co Ltd,0.0,1,24651705.83317486,1,1
+Jiangsu Suxin Special Steel Co Ltd,0.0,1,11475374812.138918,1,1
+Jiangsu Shagang Iron & Steel Co Ltd,0.0,1,5778523153.580064,1,1
+Jiangsu Province Binxin Steel Group Co Ltd,0.0,1,3627723888.232499,1,1
+Jiangsu Longyuan Steel Co Ltd,0.0,1,261090607.59518936,1,1
+Jiangsu Jingye Iron and Steel Co Ltd,0.0,1,1557019273.7154286,1,1
+Kyoei Steel Ltd,0.0,3,33170209963.181366,1,1
+Kishiwada Steel Co Ltd,0.0,1,38442254742.5372,1,1
+JiuJiang PXSteel Co Ltd,0.0,1,478146017.5263399,1,1
+Jishan Mingfu Steel Products Co Ltd,0.0,1,245177255.62792537,1,1
+Jinzhou Jinxing Special Steel Co Ltd,0.0,1,549095770.045926,1,1
+Jinye Steel Group Co Ltd,0.0,1,1182364306.7889879,1,1
+Jingzhou Qunli Metal Products Co Ltd,0.0,1,118075214.85034539,1,1
+Jingye Iron and Steel Co Ltd,0.0,1,310050323.594974,1,1
+Jingye (Yingkou) Medium Plate Co Ltd,0.0,1,1444886964.8755352,1,1
+Jindal Steel Chhattisgarh Ltd,0.0,1,454682852.3366098,1,1
+Jincheng FUSHENG Iron & Steel Co Ltd,0.0,1,981005265.3164757,1,1
+Jinan Iron & Steel Group Co Ltd,0.0,1,2791499561.2492723,1,1
+Jilinheng Precision Casting Technology Co Ltd,0.0,1,10768816.011382872,1,1
+Jilin Steel Group Taihua Metal Equipment Manufacture Co Ltd,0.0,1,912548532.864007,1,1
+Daye SPECIAL Steel Co Ltd,0.0,1,5065987125.999837,1,1
+Daido Steel Co Ltd,0.0,1,27104407629.54368,1,1
+Linzhou Hexin Foundry Co Ltd,0.0,1,1250100343.4634068,1,1
+Linyi Meide Gengchen Metal Materials Co Ltd,0.0,1,374021532.01611346,1,1
+Linyi Jiangxin Steel Co Ltd,0.0,1,7972147725.823803,1,1
+Linyi Iron and Steel Investment Group Stainless Steel Co Ltd,0.0,1,238915176.01580334,1,1
+Lingyuan Iron & Steel Co Ltd,0.0,1,1351875952.0510519,1,1
+Licheng Taihang Iron & Steel Co Ltd,0.0,1,231213739.23506635,1,1
+Liaoyang Xinyi Special Steel Co Ltd,0.0,1,4381066890.384275,1,1
+Liaoyang United Steel Co Ltd,0.0,1,1281795295.850902,1,1
+Lianyungang Yaxin Iron and Steel Co Ltd,0.0,1,890142435.6329616,1,1
+Lianyungang Huale Alloy Group Co Ltd,0.0,1,175014771.30063456,1,1
+Lianping County Huafeng Steel Co Ltd,0.0,1,271704400.55409884,1,1
+Lengshuijiang Iron and Steel Co Ltd,0.0,1,982323572.5654914,1,1
+Langfang Guangyuan Metalwork Co Ltd,0.0,1,1533063394.1574883,1,1
+Laiwu Steel Yinshan Section Co Ltd,0.0,1,1723461254.4344203,1,1
+Lucheng Xingbao Iron & Steel Co Ltd,0.0,1,2719454994.077153,1,1
+Luannan Huarui Steel Co Ltd,0.0,1,1572778754.3996863,1,1
+Longnan Fuxin Steel Co Ltd,0.0,1,85055828.36295038,1,1
+Longchuan Hanghui Steel Co Ltd,0.0,1,1069393003.8951043,1,1
+Liyang Baorun Steel Co Ltd,0.0,1,5294448729.56292,1,1
+Liuzhou IRON&STEEL Co Ltd,0.0,1,21236255107.045433,1,1
+Fengshun County Dongfang Metal Casting Co Ltd,0.0,1,453215982.2079722,1,1
+Fengshun County Agricultural Machinery Continuous Casting Co,0.0,1,453215982.2079722,1,1
+Fengshun Changsheng Precision Steel Casting Co Ltd,0.0,1,1746497357.0257854,1,1
+Fangchenggang Jinxi Steel Technology Co Ltd,0.0,1,954514098.9683073,1,1
+Ezhou Hongtai Steel Co Ltd,0.0,1,1723280956.9704273,1,1
+Dongyuan Dongnan Industrial Co Ltd,0.0,1,24627219.044078365,1,1
+Dongbei Special Steel Group Dalian Special Steel Co Ltd,0.0,1,278283618.2820494,1,1
+Dazhou Hangda Steel Co Ltd,0.0,1,49607605.43538932,1,1
+Ningbo Haoyang New MATERIALS Techonology Co Ltd,0.0,1,4420088191.603954,1,1
+Jiangsu Xingda Steel Group Co Ltd,0.0,1,261090607.59518936,1,1
+Nanyang Hanye SPECIAL STREET Co Ltd,0.0,1,313551485.3556643,1,1
+Nanjing Iron & Steel Co Ltd,0.0,1,11508667093.45597,1,1
+Nakayama Steel Works Ltd,0.0,1,254812052510.10464,1,1
+Nakayama Steel Products Co Ltd,0.0,1,324278211589.9782,1,1
+NR Ispat and Power Pvt Ltd,0.0,1,155299189.2988411,1,1
+Mukand Sumi Special Steel Ltd,0.0,1,208281204.80950305,1,1
+Mono Steel (India) Ltd,0.0,1,31833855.18768871,1,1
+Minyuan Iron and Steel Group Co Ltd,0.0,1,258770067.85181326,1,1
+Mintal Group Co Ltd,0.0,1,38453234.3149022,1,1
+Mindong Saiqi Economic Development Zone Fuhua Steel Rolling Co Ltd,0.0,1,283759824.5657374,1,1
+Aichi Steel Corp,0.0,1,110186877555.41345,1,1
+Lvliang Jianlong Industrial Co Ltd,0.0,1,1570081181.240564,1,1
+Luzhou Xinyang Vanadium Titanium Steel Co Ltd,0.0,1,20271489.796361625,1,1
+Luoyang Luogang Group of Steel and Iron Co Ltd,0.0,1,898607349.1565193,1,1
+Angang Lianzhong Stainless Steel Corp,0.0,1,23605391215.706425,1,1
+Chengdu Changfeng Steel Group Co Ltd,0.0,1,846260426.3465284,1,1
+Chengde Street Ltd,0.0,1,896245650.7992102,1,1
+Qingdao Special Iron and Steel Co Ltd,0.0,1,431849713.01466113,1,1
+Qianxinan Prefecture Juxin Industry & Trade General Co,0.0,1,259782939.28469855,1,1
+Qian'an Zhayi Steel Group Co Ltd,0.0,1,722897426.2393645,1,1
+Prakash Sponge Iron and Power Pvt Ltd,0.0,1,10655640.702493113,1,1
+Angang Steel Co Ltd,0.0,3,17992253793.146187,1,1
+Pangang Group Xichang Steel and Vanadium Co Ltd,0.0,1,146825967.31663737,1,1
+Pan Gang Group Sichuan Changcheng Special Steel Co Ltd,0.0,1,2578998262.3683743,1,1
+Osaka Steel Co Ltd,0.0,1,254812052510.10464,1,1
+Orissa Sponge Iron and Steel Ltd,0.0,1,55597769.29395994,1,1
+Nippon Steel Stainless Steel Corp,0.0,2,1369220846.7925227,1,1
+Ningxia Xinghua Iron and Steel Co Ltd,0.0,1,1044069289.8932406,1,1
+Ningxia Iron and Steel (Group) Co Ltd,0.0,1,21396075.606333133,1,1
+Ningxia Boyu Hongxing Special Steel Group Co Ltd,0.0,1,1044069289.8932406,1,1
+Rockcheck Steel Group Co Ltd,0.0,1,8170303829.634859,1,1
+Rizhao Steel Holding Group Co Ltd,0.0,1,784949051.4879102,1,1
+Ramsarup Industries Ltd,0.0,1,3789988245.8372393,1,1
+Quzhou Yuanli METAL Products Co Ltd,0.0,1,1274727897.9611301,1,1
+Qinyang Hongda Iron & Steel Co Ltd,0.0,1,514258504.00895184,1,1
+Anhui Guihang Special Steel Co Ltd,0.0,1,189683194.67400867,1,1
+Chubu Steel Plate Co Ltd,0.0,1,176716694372.9768,1,1
+Chongqing Zuhang Steel Co Ltd,0.0,1,419108487.0652244,1,1
+Chongqing Yuxi Iron & Steel (Group) Co Ltd,0.0,1,157576554.0679347,1,1
+Chongqing Yonghang Steel Group Co Ltd,0.0,1,476620864.0503676,1,1
+Chongqing Pengcheng Steel Co Ltd,0.0,1,3649329774.430953,1,1
+Chongqing Iron & Steel Co Ltd,0.0,1,3087923383.6047015,1,1
+Anhui Jin'an Stainless Steel Foundry Co Ltd,0.0,1,413630926.1177371,1,1
+Chizhou Guichi Guihang Metal Products Co Ltd,0.0,1,189683194.67400867,1,1
+Chifeng Zhongtang Special Steel Co Ltd,0.0,1,14520160.651008502,1,1
+Chifeng Yuanlian Steel Co Ltd,0.0,1,1995635766.3421109,1,1
+Shandong Jinguan Metallurgical Technology Co Ltd,0.0,1,9904946687.227655,1,1
+Shandong Iron and Steel Co Ltd,0.0,2,1184398291.2950804,1,1
+Shandong Iron Steel Group Yongfeng Zibo Co Ltd,0.0,1,5698841287.0221615,1,1
+Shandong Iron & Steel Group Yongfeng Lingang Corp,0.0,1,238915176.01580334,1,1
+Shandong IRON&STEEL Group Rizhao Co Ltd,0.0,1,784949051.4879102,1,1
+Anhui Jingxian Longxin Iron and Steel Co Ltd,0.0,1,271114715.91688704,1,1
+Shandong Chuanyang Group Co Ltd,0.0,1,3677756121.979178,1,1
+ShanXi TongCai Industry and Trade Co Ltd,0.0,1,747390169.8949468,1,1
+Nilachal Iron & Power Ltd,0.0,1,631216996.6196955,1,1
+Shagang Group Anyang Yongxing Iron & Steel Co Ltd,0.0,1,3691623504.775808,1,1
+Shaanxi Lueyang Iron and Steel Co Ltd,0.0,1,32314098.785076372,1,1
+Shaanxi LONG MEN IRON&STEEL Co Ltd,0.0,1,1050556946.8883605,1,1
+Shaanxi Huaxin Special Steel Group Co Ltd,0.0,1,179102021.36746305,1,1
+Anhui Langxi County Fuhang Steel Co Ltd,0.0,1,86904812.1034762,1,1
+Sanyo Special Steel Co Ltd,0.0,1,12333371034.581137,1,1
+SGIS Songshan Co Ltd,0.0,1,2904267538.2436757,1,1
+Shanxi Jianlong Industrial Co Ltd,0.0,1,384406160.84900844,1,1
+Shanxi HUAQIANG Iron and Steel Co Ltd,0.0,1,402152281.1129497,1,1
+Anyang Huixin Special Steel Co Ltd,0.0,1,3691623504.775808,1,1
+Shanxi Gaoyi Steel Co Ltd,0.0,1,2190467911.060826,1,1
+Shanxi Dongfang Hengliu Precision Casting Co,0.0,1,586782703.6351858,1,1
+Shanxi Changxin Industry Co Ltd,0.0,1,2719454994.077153,1,1
+Shanghai Meishan Iron & Steel Co Ltd,0.0,1,3051454698.510215,1,1
+Shangang Group Hanzhong Iron & Steel Co Ltd,0.0,1,686629951.6960833,1,1
+Shandong Xinhua Special Steel Group Co Ltd,0.0,1,783615313.084411,1,1
+Shandong Taishan Steel Group Co Ltd,0.0,1,6228848405.062526,1,1
+Shandong Taigang Xinhai Stainless Steel Co Ltd,0.0,1,374021532.01611346,1,1
+Shandong Shouguang Juneng SPECIAL Steel Co Ltd,0.0,1,1440684200.7685635,1,1
+Shandong Minyuan Steel & Iron Co Ltd,0.0,1,5882085161.067249,1,1
+Shandong Luli Steel Co Ltd,0.0,1,309288577.011094,1,1
+Shandong Longsheng Iron and Steel Co Ltd,0.0,1,2852374041.5661826,1,1
+Shandong Laigang Yongfeng Steel Corp,0.0,1,2781115807.54017,1,1
+Shougang Jingtang United Iron & Steel Co Ltd,0.0,1,102371633.8710309,1,1
+Shougang Guiyang SPECIAL Steel Co Ltd,0.0,1,264952407.92503846,1,1
+Shougang Changzhi IRON& Steel Co Ltd,0.0,1,2449438562.2978115,1,1
+Shiyan Fuyan Iron and Steel Co Ltd,0.0,1,111115982.9373292,1,1
+Shijiazhuang Iron and Steel Co Ltd,0.0,2,41715661516.27928,1,1
+Shijiazhuang Hongsen Melting & Casting Co Ltd,0.0,1,945492196.1136818,1,1
+Anyang Iron & Steel Co Ltd,0.0,1,17037663839.757977,1,1
+ShiGangJingCheng Equipment Development and Manufacturing Co Ltd,0.0,1,758099574.9849542,1,1
+Shengli (Qingyuan) Steel Products Co Ltd,0.0,1,1383225148.037752,1,1
+Xinjiang Xin'an Special Steel Co Ltd,0.0,1,2447855.543441533,1,1
+Shanxi Zhongsheng Iron and Steel Co Ltd,0.0,1,224177109.58702946,1,1
+Shanxi Xintai Iron & Steel Co Ltd,0.0,1,4334687658.950084,1,1
+Shanxi Tongde Xinghua Special Steel Co Ltd,0.0,1,353310074.948443,1,1
+Shanxi Taigang Stainless Steel Co Ltd,0.0,1,24668432523.352684,1,1
+Zhenshi Group EASTERN SPECIAL Steel Co Ltd,0.0,1,2908351559.15047,1,1
+Shanxi Jinnan Iron and Steel Group Co Ltd,0.0,1,162446633.34105244,1,1
+Baowu Group Echeng Iron & Steel Co Ltd,0.0,1,14250230836.869875,1,1
+Baotou Jiyu Steel Co Ltd,0.0,1,563557793.4713724,1,1
+Baotou Deshun Spec. Steel Co Ltd,0.0,1,1018690.4685914837,1,1
+Tangshan Chunxing Special Steel Co Ltd,0.0,1,1872854078.2187674,1,1
+Taishan Baofeng Iron & Steel Co Ltd,0.0,1,4190029623.921236,1,1
+TANG Shan Iron and Steel Group Co Ltd,0.0,1,39795139194.13621,1,1
+Action Ispat and Power Pvt Ltd,0.0,1,645075019.3542067,1,1
+Zunyi County Fuxin Iron & Steel Product Co Ltd,0.0,1,288427354.33009654,1,1
+Zunyi Changling Special Steel Co Ltd,0.0,1,3047624310.877063,1,1
+Sichuan Ya'an Anshan Iron and Steel Co Ltd,0.0,1,388037.3015476711,1,1
+Sichuan Shengquan Iron and Steel Group Co Ltd,0.0,1,1180067619.3126886,1,1
+Sichuan Shehong Chuanzhong Construction Materials Co Ltd,0.0,1,442654217.20127475,1,1
+Sichuan Gangchen Stainless Steel Co Ltd,0.0,1,473439435.8729224,1,1
+Shyam Steel Manufacturing Ltd,0.0,1,675556161.7232339,1,1
+Shougang Yili Iron & Steel Co Ltd,0.0,1,36347068.67769812,1,1
+Shougang Shuicheng Iron & Steel (Group) Co Ltd,0.0,1,2917021785.146939,1,1
+Tangshan Fengnan Kaiheng Iron & Steel Co Ltd,0.0,1,307330756.7732362,1,1
+Tangshan Donghua Iron & Steel Enterprise Group Co Ltd,0.0,1,438464931.03294915,1,1
+Zijin County Dongri Foundry Co Ltd,0.0,1,12925770.443472354,1,1
+Tangshan DELONG Steel Co Ltd,0.0,1,218136816.73348233,1,1
+Chengde Shengfeng Iron & Steel Co Ltd,0.0,1,714450516.0938448,1,1
+Zibo Qilin Fushan Steel Co Ltd,0.0,1,5698841287.0221615,1,1
+Changzhou Dongfang Special Steel Co Ltd,0.0,1,1518567272.309646,1,1
+Changshu Longteng Special Steel Co Ltd,0.0,1,9736930825.62187,1,1
+Changli Xingguo Precision Machinery Co Ltd,0.0,1,853581286.6142415,1,1
+Captain Steel India Ltd,0.0,2,1860795451.2235923,1,1
+Cangzhou Lingang Sanling Metal Co Ltd,0.0,1,90759574.23978685,1,1
+Bhushan Power & Steel Ltd,0.0,1,113645399.55906004,1,1
+Bhagyalaxmi Metals Pvt Ltd,0.0,1,20100548.68457569,1,1
+Benxi Beiying Iron & Steel (GROUP) Co Ltd,0.0,1,423489077.5911907,1,1
+Bengang Steel Plates Co Ltd,0.0,1,10302505895.931911,1,1
+Beijing Shougang Co Ltd,0.0,1,1205952791.2560177,1,1
+Tianjin Rongcheng Group Tangshan Special Steel Co Ltd,0.0,1,9710283612.501226,1,1
+Zhuhai Yueyufeng IRON&STEEL Co Ltd,0.0,1,2524762539.6796427,1,1
+Tianjin Metallurgy Group Zhasan Steel Co Ltd,0.0,1,805190129.0529438,1,1
+Zhongxin Iron and Steel Group Co Ltd,0.0,1,2852869883.3872247,1,1
+Tangshan Zhengfeng Steel Co Ltd,0.0,1,2256673828.2882605,1,1
+Tangshan Yutian Jinzhou Industry Co Ltd,0.0,1,74159309.89730716,1,1
+Tangshan Xinglong Steel Co Ltd,0.0,1,178134743.02966222,1,1
+Tangshan Xinbaotai Iron & Steel Co Ltd,0.0,1,597616844.3023248,1,1
+Tangshan Wenfeng Special Steel Co Ltd,0.0,1,146526011.7107865,1,1
+Tangshan Stainless Steel Co Ltd,0.0,2,1009690044.964777,1,1
+Tangshan Songting IRON&STEEL Co Ltd,0.0,1,1205952791.2560177,1,1
+Tangshan Shoutang Baosheng Functional Materials Co Ltd,0.0,1,1356006637.3997142,1,1
+Tangshan Jinma Iron & Steel Group Co Ltd,0.0,1,1872854078.2187674,1,1
+Tangshan Jianlong Steel SPECIAL Steel Co Ltd,0.0,1,3405149508.8777,1,1
+Tangshan Heavy Plate Co Ltd,0.0,1,658638310.9064554,1,1
+Tangshan GUOYI SPECIAL Steel Co Ltd,0.0,1,1597397963.2435653,1,1
+Wuan Mingfang Iron & Steel Co Ltd,0.0,1,6917400988.421546,1,1
+Wu'an Yongcheng Zhuye Co Ltd,0.0,1,188809636.46592227,1,1
+Weining Hengchang Furnace Charge & Casting Co Ltd,0.0,1,21953226.651415624,1,1
+Weifang SPECIAL Steel Group Co Ltd,0.0,1,3368126297.6347632,1,1
+WISCO Group Xiangyang Heavy Equipment MATERIALS Co Ltd,0.0,1,6115679576.442959,1,1
+WISCO Group Kunming Steel Co Ltd,0.0,2,401331048.2710037,1,1
+Yunnan Qujing Iron and Steel Group Chenggang Iron and Steel Co Ltd,0.0,1,240153183.6302977,1,1
+Vardhman Special Steels Limited,0.0,1,2490777403.6033077,1,1
+Topy Industries Ltd,0.0,1,6515425440.511312,1,1
+Tongshan Liguo Iron and Steel Co Ltd,0.0,1,261090607.59518936,1,1
+Tongling Fuxin Iron & Steel Co Ltd,0.0,1,6386761084.181079,1,1
+Yunnan Qujing Iron & Steel Group Yue Steel Iron & Steel Co Ltd,0.0,1,135064897.5047968,1,1
+Tokyo Steel Manufacturing Co Ltd,0.0,4,18429753186.74529,1,1
+Tianjin Tianzhong Giant Heavy Industry Co Ltd,0.0,1,1572778754.3996863,1,1
+Tianjin Tianfeng Steel Co Ltd,0.0,1,805190129.0529438,1,1
+Tianjin Rongcheng Group Tangshan Special Steel Co Ltd; Tangshan Zhengfeng Steel Co Ltd,0.0,1,2256673828.2882605,1,1
+ArcelorMittal SA,0.0,1,490816268.93993175,1,1
+Yunnan Muguang Industry and Trade Co Ltd,0.0,1,106654789.90736285,1,1
+Xingtai Iron and Steel Co Ltd,0.0,2,11288701979.281197,1,1
+Xiangfen County Xingyuan Steel Group Co Ltd,0.0,1,643103075.7903618,1,1
+Xiangfen County XinJinShan Special Steel Co Ltd,0.0,1,517374334.2584018,1,1
+Wuzhou Yongda Steel Works Co Ltd,0.0,1,607979569.3111423,1,1
+Wuzhou Yongda Special Steel Co Ltd,0.0,1,607979569.3111423,1,1
+Wuyang Iron and Steel Co Ltd,0.0,1,642394331.888709,1,1
+Wuxi Xinsanzhou Special Steel Co Ltd,0.0,1,11935089663.247892,1,1
+Wulanhot Iron & Steel Co Ltd,0.0,1,3362380016.537606,1,1
+Wuhu Fuxin Iron & Steel Co Ltd,0.0,1,203072621.1319695,1,1
+Wuhan Shunle Stainless Steel Co Ltd,0.0,1,11843724400.76606,1,1
+Wuhan Iron and Steel Co Ltd,0.0,1,13274108766.720098,1,1
+Wuhai Baogang Wanteng Iron and Steel Co Ltd,0.0,1,111523145.34028804,1,1
+Wugang Zhongjia Iron & Steel Co Ltd,0.0,1,642394331.888709,1,1
+Wuan Yuhua Steel Co Ltd,0.0,1,2791499561.2492723,1,1
+Xinjiang Minxin Iron and Steel (Group) Minhang Special Steel Co Ltd,0.0,1,1337515.1727294303,1,1
+Xinjiang KingTec Steel Co Ltd,0.0,1,93932.5409826021,1,1
+Xinjiang Ka Steel Group Co,0.0,1,4239302.117930701,1,1
+Xinjiang Da'an Special Steel Co Ltd,0.0,1,21656190.748155303,1,1
+Xinji AOSEN Steel Group Co Ltd,0.0,1,215529762.4241828,1,1
+Baotou DA AN IRON&STEEL Co Ltd,0.0,2,8439898530.62294,1,1
+Baotou Baoxin Special Steel Co Ltd,0.0,1,883833.8895358075,1,1
+Baosteel Special Metals Co Ltd,0.0,1,72345769161.90762,1,1
+Baosteel Group Xinjiang Bayi Iron & Steel Co Ltd,0.0,1,931469524.817334,1,1
+Baoshan Iron & Steel Co Ltd,0.0,1,72345769161.90762,1,1
+Baldota Steel and Power Ltd,0.0,1,185356174.34875867,1,1
+Baicheng Fuda Bar Rolling Co Ltd,0.0,1,4030918213.477184,1,1
+BPA Metallics Pvt Ltd,0.0,1,400367384.08294696,1,1
+BERIS Jiangsu Heavy Industry Co Ltd,0.0,1,178113102.28059617,1,1
+Yunnan Jingye Steel Co,0.0,1,59127258.8221577,1,1
+Yunnan Desheng Steel Co Ltd,0.0,1,179784996.6136446,1,1
+Yichang Fulong Iron & Steel Co Ltd,0.0,1,3382709142.716387,1,1
+Zhengzhou YONGTONG SPECIAL Steel Co Ltd,0.0,1,349309237.1561481,1,1
+Zhejiang Yuxin Industrial Co Ltd,0.0,1,511578477.6555888,1,1
+Zhejiang Wantai Special Steel Co Ltd,0.0,1,3208888731.268896,1,1
+Zhejiang TSINGSHAN IRON&STEEL Co Ltd,0.0,1,1195110580.909999,1,1
+Zenith Steel Group (Nantong) Co Ltd,0.0,1,1230988127.1191046,1,1
+Yuxi Xinxing Iron & Steel Co Ltd,0.0,1,204193710.09956524,1,1
+Yuxi Iron and Steel Group Zhenfei Iron and Steel Co Ltd,0.0,1,106654789.90736285,1,1
+Yuxi Huixi Metal Casting Products Co Ltd,0.0,1,1153461107.3559847,1,1
+Yunnan Yuxi Xianfu Iron and Steel (Group) Co Ltd,0.0,1,20949106.01836089,1,1
+Yunnan Yuxi Iron and Steel Group Yukun Iron and Steel Co Ltd,0.0,1,932314590.9645125,1,1
+Yunnan Qujing Shuangyou Iron and Steel Co Ltd,0.0,1,7472321818.171346,1,1
+Yunnan Qujing Iron and Steel Group Yanggang Iron and Steel Co Ltd,0.0,1,135064897.5047968,1,1
+Yunnan Qujing Iron and Steel Group Co Ltd,0.0,1,54580293.24053438,1,1
+Anyuan Iron & Steel Co Ltd,0.0,1,7940031421.185044,1,1
+natural person(s); Hubei Xinxin Steel Group Co Ltd,0.0,1,1002488417.5250294,1,1
+Anyang Xinpu Steel Co Ltd,0.0,1,17037663839.757977,1,1
+Yantai Walsin Stainless Steel Co Ltd,0.0,1,18963550948.945488,1,1
+Yangzhou Qinyou Special Metal Materials Co Ltd,0.0,1,361408387.5824465,1,1
+Yangzhou Hengrun Ocean Heavy Industry Co Ltd,0.0,1,1835372768.9161925,1,1
+Yangchun New Iron & Steel Co Ltd,0.0,1,126961940.125218,1,1
+Yancheng Lianxin Steel Co Ltd,0.0,1,47191425.791021824,1,1
+Yamato Steel Co Ltd,0.0,1,11107163158.787853,1,1
+Xuzhou TaiFa Special Steel Technology Co Ltd,0.0,1,279149401.67212856,1,1
+Xuzhou Jinhong Iron and Steel Group Co Ltd,0.0,1,62626478.12289046,1,1
+Xuzhou Baofeng Special Steel Co Ltd,0.0,1,1369908468.9113462,1,1
+Xuanhua Iron and Steel Group Co Ltd,0.0,1,1534319950.0774214,1,1
+Xiwang METAL Science Technology Co Ltd,0.0,1,1079457394.0062003,1,1
+Xinyu Iron & Steel Corp Ltd,0.0,1,7022275672.93845,1,1
+YunNan Province Tiangao Nickel Alloy Co Ltd,0.0,1,229330969.90024498,1,1
+Xinjiang Yili Iron and Steel Co Ltd,0.0,1,36347068.67769812,1,1
+Adhunik Metaliks Ltd,0.0,1,721177173.7528095,1,1
